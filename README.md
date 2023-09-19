@@ -10,5 +10,5 @@ http.createServer(function (req, res) {
   res.end('Gustavo Isaac  Argentino da Silva - 19/09/2023');
 }).listen(8018);
 
-4) Abrir o navegador e pesquisar "localhost:<PORTA USADA>"
+4) Abrir o navegador e pesquisar "localhost:<PORTAusada>"
 5) Se aparecer os dados fornecidos está correto

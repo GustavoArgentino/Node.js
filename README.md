@@ -10,5 +10,6 @@ http.createServer(function (req, res) {
   res.end('Gustavo Isaac  Argentino da Silva - 19/09/2023');
 }).listen(8018);
 
-4) Abrir o navegador e pesquisar "localhost:Portausada"
-5) Se aparecer os dados fornecidos está correto
+4) Ativar o arquivo do index, exemplo "node index.js"
+5) Abrir o navegador e pesquisar "localhost:Portausada"
+6) Se aparecer os dados fornecidos está correto
